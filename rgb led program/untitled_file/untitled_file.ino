@@ -6,7 +6,7 @@ int r=252;
 int g=0;
 int b=0;
 
-#define LED_PIN     7
+#define LED_PIN     12
 #define NUM_LEDS    60
 
 CRGB leds[NUM_LEDS];
