@@ -1,5 +1,0 @@
-Device ID key : 62136705923117df0dc9d7b0
-
-api key: 95ece7c4-bdf4-4966-bd1e-588e57beea78
-
-app key : a65366f1-af5b-4879-a9b1-5bb50330c33d-128bce26-395f-462c-accd-893865c126fe
